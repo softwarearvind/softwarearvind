@@ -1,5 +1,22 @@
 # 💫 About Me:
-#PHP & Laravel<br>#Laravel 10/11/12/13<br>#MySQL / MariaDB<br>REST API Development<br>MVC Architecture<br>Eloquent ORM<br>Authentication & Authorization<br>Role & Permission Management<br>CRUD Operations<br>Payment Gateway Integration (Razorpay/PayU)<br>JavaScript & jQuery<br>HTML, CSS & Bootstrap<br>Git & GitHub<br>Database Optimization<br>OOP & MVC<br>Basic React.js<br>API Integration<br>Debugging & Problem Solving
+🐘 PHP & Laravel
+🚀 Laravel 10/11/12/13
+🗄️ MySQL / MariaDB
+🔗 REST API Development
+🏗️ MVC Architecture
+🔄 Eloquent ORM
+🔐 Authentication & Authorization
+👥 Role & Permission Management
+📝 CRUD Operations
+💳 Payment Gateway Integration (Razorpay/PayU)
+⚡ JavaScript & jQuery
+🎨 HTML, CSS & Bootstrap
+🌿 Git & GitHub
+📊 Database Optimization
+🧩 OOP & MVC
+⚛️ Basic React.js
+🔌 API Integration
+🐞 Debugging & Problem Solving
 
 
 ## 🌐 Socials:
